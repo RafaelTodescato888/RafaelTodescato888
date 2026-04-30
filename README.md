@@ -56,7 +56,7 @@ Atualmente atuo com desenvolvimento backend e frontend utilizando tecnologias mo
 ### 🧪 Testes
 - xUnit
 - Moq
-- Bogus
+- FluentAssertions
 
 ---
 
