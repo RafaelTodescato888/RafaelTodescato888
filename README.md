@@ -118,8 +118,8 @@ Atualmente atuo com desenvolvimento backend e frontend utilizando tecnologias mo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafags13&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafags13&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelTodescato888&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTodescato888&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
