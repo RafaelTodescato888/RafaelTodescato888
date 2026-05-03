@@ -127,7 +127,6 @@ Atualmente atuo com desenvolvimento backend e frontend utilizando tecnologias mo
 ## 📫 Contato
 
 - 📧 Email: rafael_todescato@hotmail.com
-- 📱 Telefone: +55 (67) 99972-1736
 - 💻 GitHub: https://github.com/Rafags13
 
 ---
