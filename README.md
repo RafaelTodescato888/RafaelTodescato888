@@ -115,18 +115,6 @@ Atualmente atuo com desenvolvimento backend e frontend utilizando tecnologias mo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelTodescato888&show_icons=true&locale=en&theme=vue-dark&hide_border=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849" alt="GitHub Stats" height="200" width="420"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelTodescato888&show_icons=true&locale=en&theme=vue-dark&hide_border=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849" alt="Top Languages" height="200" width="300"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelTodescato888&theme=vue-dark&hide_border=true&stroke=fffefe&ring=41b883&fire=41b883&currStreakLabel=41b883" alt="GitHub Streak Stats" height="200" width="420"/>
-</div>
-
----
-
 ## 📫 Contato
 
 - 📧 Email: rafael_todescato@hotmail.com
